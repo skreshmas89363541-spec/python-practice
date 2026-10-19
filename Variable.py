@@ -1,3 +1,4 @@
+# program for variables
 name = "Reshma "
 age = 19
 language = "Python"
