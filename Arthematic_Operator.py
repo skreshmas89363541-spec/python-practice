@@ -1,5 +1,5 @@
 
-#program for arthematic operations
+# program for arthematic operations
 a = int(input("Enter first number: "))
 b = int(input("Enter second number: "))
 
